@@ -4,7 +4,6 @@ import codecs
 import os.path
 import os
 from bs4 import BeautifulSoup
-from twilio.rest import Client
 import sys, re, urllib  
 import smtplib  
 import traceback  
