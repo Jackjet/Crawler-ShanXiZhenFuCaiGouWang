@@ -105,8 +105,7 @@ toaddrs = ["106941849@qq.com"]
 ccaddrs = ["inscrypt2018@163.com"]
 #subject = "测试邮件"
 #授权码
-password = "633211wo"
-#password = "zhang1968311"
+password = "do not be evil"
 
 #
 # subject:主题
